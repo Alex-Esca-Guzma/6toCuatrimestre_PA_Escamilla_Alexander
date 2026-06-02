@@ -1,0 +1,7 @@
+<?php
+// Modificado por Alex Escamilla
+
+    $db_host = "localhost";
+    $db_user = "root";
+    $db_pass = "";
+    $db_name = "gestor_biblioteca";
